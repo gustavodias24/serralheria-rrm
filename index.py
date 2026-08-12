@@ -42,7 +42,7 @@ SERVICES = [
         "title": "Soldas em geral",
         "description": "Uniões firmes, reparos e reforços executados com atenção à segurança e ao detalhe.",
         "image": "08-solda-precisao.webp",
-        "alt": "Profissional executando solda de precisão em estrutura de aço",
+        "alt": "Profissional mulher executando solda de precisão em estrutura de aço",
     },
     {
         "number": "06",
